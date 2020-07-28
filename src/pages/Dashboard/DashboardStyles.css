@@ -1,0 +1,11 @@
+.container {
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
+    background-color: aqua;
+  }
+  .container .btn-holder {
+    justify-content: flex-end;
+    display: flex;
+  }
